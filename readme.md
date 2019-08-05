@@ -9,5 +9,6 @@ digit_recog is a neural network that recognizes handwritten digits from the MNIS
 
 Open [digit_recog.ipynb](digit_recog.ipynb) in jupyter notebook. [MNISTDatasets.py](MNISTDatasets.py) has the code to download, preprocess, and manipulate the datasets. [MNIST_digit_recog.py](MNIST_digit_recog.py) has the code to create, train, and test the neural network using TFLearn.
 
+![Alt text](training_history.png?raw=true)
 
-![Alt text](training_history.png?raw=true)  ![Alt text](predict-7.png?raw=true)
+![Alt text](predict-7.png?raw=true)
